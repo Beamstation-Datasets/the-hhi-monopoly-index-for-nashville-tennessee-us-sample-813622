@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
   "config_name": "The HHI Monopoly Index for Nashville, Tennessee, US",
-  "export_job_id": "ba8615b2-534d-438d-8fd1-222a3956a5a0",
+  "export_job_id": "bda57767-71a4-4608-93d5-8a40b461a476",
   "github_org": "Beamstation-Datasets",
   "id_short": 813622,
   "location_name": "Nashville",
   "location_type": "city",
   "repo_name": "the-hhi-monopoly-index-for-nashville-tennessee-us-sample-813622",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/813622/beamstation_813622_restaurants-us-tn_SAMPLE_DIST.csv",
-  "sample_pct": 6.9,
+  "sample_pct": 7.69,
   "sample_records": 2,
-  "sample_sha256": "d85adfd44fc957da21dfd0c97952b6ac7603a95e83086d3c18bb2a23e34bb5ca",
-  "sample_size_bytes": 24152,
-  "total_records": 29,
-  "updated_at": "2026-04-07T15:30:11.388984+00:00"
+  "sample_sha256": "e081a4ba79cf513efd437ca70eaba7b0edbc99c2234535aa664c2f1ed892fe4f",
+  "sample_size_bytes": 24218,
+  "total_records": 26,
+  "updated_at": "2026-04-14T21:57:47.534993+00:00"
 }
