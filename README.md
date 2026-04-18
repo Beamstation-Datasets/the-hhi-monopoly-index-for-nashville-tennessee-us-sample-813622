@@ -9,9 +9,9 @@
 | Dataset ID | `813622` |
 | Location | Nashville |
 | Category | Restaurants |
-| Full dataset size | 29 records |
-| Free sample size | 2 records (6.9%) |
-| Last export | 2026-04-07T15:30:11.388984+00:00 |
+| Full dataset size | 26 records |
+| Free sample size | 2 records (7.69%) |
+| Last export | 2026-04-14T21:57:47.534993+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-nashville-tennessee-us-sample-813622/releases/download/sample-latest/beamstation_813622_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
