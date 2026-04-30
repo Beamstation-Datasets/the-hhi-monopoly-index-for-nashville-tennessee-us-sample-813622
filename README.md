@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Nashville, Tennessee, US
 
-> Free BeamStation sample export with 2 rows and masked direct-contact fields.
+> Free BeamStation sample export with 3 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `813622` |
 | Location | Nashville |
 | Category | Restaurants |
-| Full dataset size | 26 records |
-| Free sample size | 2 records (7.69%) |
-| Last export | 2026-04-14T21:57:47.534993+00:00 |
+| Full dataset size | 39 records |
+| Free sample size | 3 records (7.69%) |
+| Last export | 2026-04-30T17:22:44.052789+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-nashville-tennessee-us-sample-813622/releases/download/sample-latest/beamstation_813622_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
