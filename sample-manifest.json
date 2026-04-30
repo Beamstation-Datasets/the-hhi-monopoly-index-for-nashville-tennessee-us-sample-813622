@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bda57767-71a4-4608-93d5-8a40b461a476",
+  "export_job_id": "afa1a3b0-a9a2-4f77-892d-82b9371b2edc",
   "id_short": 813622,
-  "published_at": "2026-04-18T19:55:17Z",
+  "published_at": "2026-04-30T19:02:08Z",
   "repo_name": "the-hhi-monopoly-index-for-nashville-tennessee-us-sample-813622",
   "sample_asset_name": "beamstation_813622_restaurants-us-tn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/813622/beamstation_813622_restaurants-us-tn_SAMPLE_DIST.csv",
-  "sample_records": 2,
-  "sample_sha256": "e081a4ba79cf513efd437ca70eaba7b0edbc99c2234535aa664c2f1ed892fe4f",
-  "sample_size_bytes": 24218,
-  "total_records": 26
+  "sample_records": 3,
+  "sample_sha256": "a565f147c125eddf9927a586be757d630d7fcd7137b1d9995754b04abcee9d59",
+  "sample_size_bytes": 27632,
+  "total_records": 39
 }
